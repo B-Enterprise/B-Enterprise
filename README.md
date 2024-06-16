@@ -1,3 +1,10 @@
+> This profile is my second profile
+> 
+> Secondary profile for development and testing
+>
+
+# My personal profile is <a href="https://github.com/Brayan-chan">Brayan-chan 🚀✨</a>
+
 - 👋 Hi, I’m @B-Enterprise
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
